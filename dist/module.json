@@ -9,6 +9,10 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
+      "name": "jmhnilbog",
+      "url": "https://github.com/jmhnilbog"
+    },
+    {
       "name": "Blackcloud",
       "url": "https://github.com/Blackcloud010",
       "discord": "Blackcloud010#5426"
@@ -26,13 +30,14 @@
 
   ],
   "esmodules": [
-    "module.js"
+    "module.ts"
   ],
   "scripts": [
 
   ],
   "styles": [
-    "/styles/module.css"
+    "/styles/module.css",
+    "/styles/module.scss"
   ],
   "languages": [
     {
